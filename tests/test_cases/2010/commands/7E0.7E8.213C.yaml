@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.213C
+test_cases:
+- expected_values:
+    ALLION_INJ_VOL_CYL_1: 0.00015
+  response: 7E804613C128B
+- expected_values:
+    ALLION_INJ_VOL_CYL_1: 0.00015
+  response: 7E804613C12FE
+- expected_values:
+    ALLION_INJ_VOL_CYL_1: 0.00016
+  response: 7E804613C1400
+- expected_values:
+    ALLION_INJ_VOL_CYL_1: 0.00019
+  response: 7E804613C1803
+- expected_values:
+    ALLION_INJ_VOL_CYL_1: 0.00015
+  response: |-
+    NO DATA
+    > 7B0.7B8.213C
+    7E804613C1284
