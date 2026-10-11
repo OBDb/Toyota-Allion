@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Allion"
+
+generations:
+  - name: "First Generation (T240)"
+    start_year: 2001
+    end_year: 2007
+    description: "A Japan-market sedan with 1.5 L to 2.0 L gasoline engines."
+  - name: "Second Generation (T260)"
+    start_year: 2007
+    end_year: 2021
+    description: "With 1.5 L 1NZ-FE, 1.8 L 2ZR-FE and 2.0 L 3ZR engines and a CVT."
