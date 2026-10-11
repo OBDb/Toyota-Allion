@@ -1,0 +1,45 @@
+command_id: 7E0.7E8.2121
+test_cases:
+- expected_values:
+    ALLION_CC_S: 0
+  response: '7E80461210000'
+- expected_values:
+    ALLION_CC_S: 0
+  response: |-
+    NO DATA
+    > 7B0.7B8.2121
+    7E80461210000
+- expected_values:
+    ALLION_CC_S: 0
+  response: |-
+    NO DATA
+    > 7B0.7B8.21A1
+    NO DATA
+    > 7B0.7B8.2121
+    7E80461210000
+- expected_values:
+    ALLION_CC_S: 0
+  response: |-
+    NO DATA
+    > 7B0.7B8.21A3
+    NO DATA
+    > 7B0.7B8.2121
+    7E80461210000
+- expected_values:
+    ALLION_CC_S: 0
+  response: |-
+    NO DATA
+    > 7C0.7C8.2121
+    7E80461210000
+- expected_values:
+    ALLION_CC_S: 0
+  response: |-
+    NO DATA
+    > 7C4.7CC.2121
+    7E80461210000
+- expected_values:
+    ALLION_CC_S: 0
+  response: |-
+    NO DATA
+    > 7E0.7E8.2121
+    7E80461210000
