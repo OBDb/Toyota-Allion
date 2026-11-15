@@ -16,7 +16,7 @@
   "signals": [
     {"id": "ALLION_STOP_LIGHT_RELAY", "path": "Lights", "fmt": { "len": 1, "max": 1, "unit": "offon" }, "name": "Stop light relay"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "12"}, "freq": 1,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "12"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "ALLION_TAIL_CANCEL_LIGHT",       "path": "Lights", "fmt": {"bix": 2,  "len": 1, "max": 1, "unit": "offon" }, "name": "Tail cancel SW"},
     {"id": "ALLION_P_SEATBELT_BUCKLE_LIGHT", "path": "Lights", "fmt": {"bix": 8,  "len": 1, "max": 1, "unit": "offon" }, "name": "P-seatbelt buckle SW"},
@@ -31,11 +31,11 @@
   "signals": [
     {"id": "ALLION_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Speed", "suggestedMetric": "speed"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "23"}, "freq": 1,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "23"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "ALLION_ECT_7C0", "path": "Engine", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "celsius" }, "name": "Engine coolant temperature", "suggestedMetric": "engineCoolantTemperature"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "29"}, "freq": 1,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "ALLION_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -43,7 +43,7 @@
   "signals": [
     {"id": "ALLION_OIL_CHANGE_ODO", "path": "Fluids", "fmt": { "len": 8, "max": 41038.272, "mul": 2514600, "div": 15625, "unit": "kilometers" }, "name": "Distance since oil change"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "68"}, "freq": 1,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "68"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "ALLION_RHEOSTAT", "path": "Lights", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Rheostat", "description": "Higher values are brighter"}
   ]},
@@ -51,7 +51,7 @@
   "signals": [
     {"id": "ALLION_KEY_REMIND_SOUND", "path": "Control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Key remind sound"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "A7"}, "freq": 1,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "A7"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "ALLION_SEAT_BELT_BEEP_DRIVER",    "path": "Seatbelts", "fmt": {          "len": 1, "max": 1, "unit": "offon" }, "name": "Seat belt beep, driver"},
     {"id": "ALLION_SEAT_BELT_BEEP_PASSENGER", "path": "Seatbelts", "fmt": {"bix": 1, "len": 1, "max": 1, "unit": "offon" }, "name": "Seat belt beep, passenger"},
