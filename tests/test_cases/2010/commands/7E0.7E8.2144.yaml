@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2144
+test_cases:
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 184.88701
+  response: 7E8046144765B
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 194.78459
+  response: 7E80461447CB1
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 199.86762
+  response: 7E80461447FF2
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 199.95305
+  response: '7E80461448000'
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 201.83859
+  response: '7E80461448135'
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 202.69289
+  response: 7E804614481C1

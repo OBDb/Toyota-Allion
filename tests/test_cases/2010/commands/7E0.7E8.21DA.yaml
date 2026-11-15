@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.21DA
+test_cases:
+- expected_values:
+    ALLION_GEAR_V3: 1
+  response: 7E80761DA01240607EA
+- expected_values:
+    ALLION_GEAR_V3: 1
+  response: 7E80761DA01E40607EA
+- expected_values:
+    ALLION_GEAR_V3: 197
+  response: 7E80761DAC5640607EA

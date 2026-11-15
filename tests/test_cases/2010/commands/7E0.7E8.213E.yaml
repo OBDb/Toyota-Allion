@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.213E
+test_cases:
+- expected_values:
+    ALLION_CAT_T_B1S2: 31.4
+  response: 7E804613E02CA
+- expected_values:
+    ALLION_CAT_T_B1S2: 319.2
+  response: 7E804613E0E08
+- expected_values:
+    ALLION_CAT_T_B1S2: 420.5
+  response: 7E804613E11FD
+- expected_values:
+    ALLION_CAT_T_B1S2: 459.8
+  response: 7E804613E1386

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.21E4
+test_cases:
+- expected_values:
+    ALLION_INJ_PW: 0.25569
+  response: 7E80361E402

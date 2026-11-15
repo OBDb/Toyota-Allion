@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.210E
+test_cases:
+- expected_values:
+    ALLION_SPARKADV_21: -5.5
+  response: 7E803610E75
+- expected_values:
+    ALLION_SPARKADV_21: 34
+  response: 7E803610EC4

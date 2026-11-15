@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2131
+test_cases:
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.10547
+  response: 7E80461311B3E
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.11523
+  response: 7E80461311B3F
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.125
+  response: 7E80461311B40
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.13477
+  response: 7E80461311B41
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.14453
+  response: 7E80461311B42
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.1543
+  response: 7E80461311B43
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.16406
+  response: 7E80461311B44
+- expected_values:
+    ALLION_VALVEMATIC_CURRENT: 68.17383
+  response: 7E80461311B45

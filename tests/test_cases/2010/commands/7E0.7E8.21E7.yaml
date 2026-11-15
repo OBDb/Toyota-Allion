@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.21E7
+test_cases:
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
+    7E82100000000000000
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
+    7E8210000001F1B4700
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
+    7E821005800171B5700
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
+    7E82100A600411F3F00
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
+    7E8210280024E1E3200
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
+    7E821028002581F0600

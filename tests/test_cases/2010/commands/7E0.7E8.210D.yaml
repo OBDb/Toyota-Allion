@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.210D
+test_cases:
+- expected_values:
+    ALLION_VSS_21: 0
+  response: 7E803610D00
+- expected_values:
+    ALLION_VSS_21: 52
+  response: 7E803610D34
