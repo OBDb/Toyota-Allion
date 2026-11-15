@@ -4,8 +4,17 @@ test_cases:
     ALLION_VARIABLE_VLV_TIM_AIM_1: 184.88701
   response: 7E8046144765B
 - expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 188.63369
+  response: 7E804614478C1
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 193.10041
+  response: 7E80461447B9D
+- expected_values:
     ALLION_VARIABLE_VLV_TIM_AIM_1: 194.78459
   response: 7E80461447CB1
+- expected_values:
+    ALLION_VARIABLE_VLV_TIM_AIM_1: 195.85855
+  response: 7E80461447D61
 - expected_values:
     ALLION_VARIABLE_VLV_TIM_AIM_1: 199.86762
   response: 7E80461447FF2

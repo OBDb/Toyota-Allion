@@ -4,5 +4,5 @@ test_cases:
     ALLION_THROTTLE_21: 18.03922
   response: 7E80361112E
 - expected_values:
-    ALLION_THROTTLE_21: 29.01961
-  response: 7E80361114A
+    ALLION_THROTTLE_21: 31.37255
+  response: '7E803611150'

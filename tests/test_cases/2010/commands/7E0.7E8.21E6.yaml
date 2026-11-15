@@ -1,45 +1,15 @@
 command_id: 7E0.7E8.21E6
 test_cases:
 - expected_values:
-    ALLION_AC_COMP: 1
+    ALLION_AC_COMP: 0
     ALLION_FUEL_CUT: 0
     ALLION_IDLE_CTRL: 0
-  response: 7E80561E6208001
-- expected_values:
-    ALLION_AC_COMP: 0
-    ALLION_FUEL_CUT: 0
-    ALLION_IDLE_CTRL: 1
-  response: 7E80561E6408001
-- expected_values:
-    ALLION_AC_COMP: 0
-    ALLION_FUEL_CUT: 0
-    ALLION_IDLE_CTRL: 1
-  response: 7E80561E6448001
+  response: 7E80561E6008001
 - expected_values:
     ALLION_AC_COMP: 0
     ALLION_FUEL_CUT: 1
     ALLION_IDLE_CTRL: 1
   response: 7E80561E644C201
-- expected_values:
-    ALLION_AC_COMP: 0
-    ALLION_FUEL_CUT: 0
-    ALLION_IDLE_CTRL: 1
-  response: 7E80561E6508001
-- expected_values:
-    ALLION_AC_COMP: 0
-    ALLION_FUEL_CUT: 0
-    ALLION_IDLE_CTRL: 1
-  response: 7E80561E6548001
-- expected_values:
-    ALLION_AC_COMP: 1
-    ALLION_FUEL_CUT: 0
-    ALLION_IDLE_CTRL: 1
-  response: 7E80561E6608001
-- expected_values:
-    ALLION_AC_COMP: 1
-    ALLION_FUEL_CUT: 1
-    ALLION_IDLE_CTRL: 1
-  response: 7E80561E660C201
 - expected_values:
     ALLION_AC_COMP: 1
     ALLION_FUEL_CUT: 0

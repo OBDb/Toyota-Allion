@@ -7,8 +7,8 @@ test_cases:
     ALLION_MAF_21: 2.54
   response: 7E804611000FE
 - expected_values:
-    ALLION_MAF_21: 2.73
-  response: '7E80461100111'
+    ALLION_MAF_21: 5.2
+  response: '7E80461100208'
 - expected_values:
-    ALLION_MAF_21: 10.84
-  response: 7E8046110043C
+    ALLION_MAF_21: 17.82
+  response: 7E804611006F6
