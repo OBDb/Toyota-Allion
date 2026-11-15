@@ -4,5 +4,5 @@ test_cases:
     ALLION_REGULATOR_P: 617.15
   response: 7CC03615349
 - expected_values:
-    ALLION_REGULATOR_P: 1029.03
-  response: 7CC03615365
+    ALLION_REGULATOR_P: 1043.74
+  response: 7CC03615366
