@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ALLION_VSS: 0
   response: 7C803612100
+- expected_values:
+    ALLION_VSS: 52
+  response: 7C803612134

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2147
+test_cases:
+- expected_values:
+    ALLION_EGR_STEP_POSITION: 129
+  response: '7E803614781'
+- expected_values:
+    ALLION_EGR_STEP_POSITION: 164
+  response: 7E8036147A4

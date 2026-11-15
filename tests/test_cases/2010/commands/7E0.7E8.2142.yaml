@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2142
+test_cases:
+- expected_values:
+    ALLION_BAT_CURRENT: -78.9559
+  response: 7E80461422F26
+- expected_values:
+    ALLION_BAT_CURRENT: -78.13573
+  response: 7E80461422FFD
+- expected_values:
+    ALLION_BAT_CURRENT: -72.24956
+  response: '7E80461423604'
+- expected_values:
+    ALLION_BAT_CURRENT: -70.53674
+  response: 7E804614237C5
