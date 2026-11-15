@@ -4,5 +4,5 @@ test_cases:
     ALLION_EVAP_PURGE_DUTY_7E0: 0
   response: 7E803612E00
 - expected_values:
-    ALLION_EVAP_PURGE_DUTY_7E0: 47.05882
-  response: 7E803612E78
+    ALLION_EVAP_PURGE_DUTY_7E0: 100
+  response: 7E803612EFF

@@ -4,6 +4,9 @@ test_cases:
     ALLION_LTFT1_21: -4.72039
   response: 7E80361077A
 - expected_values:
+    ALLION_LTFT1_21: -3.93941
+  response: 7E80361077B
+- expected_values:
     ALLION_LTFT1_21: -3.15843
   response: 7E80361077C
 - expected_values:
@@ -12,3 +15,6 @@ test_cases:
 - expected_values:
     ALLION_LTFT1_21: -1.59647
   response: 7E80361077E
+- expected_values:
+    ALLION_LTFT1_21: -0.03451
+  response: '7E803610780'

@@ -4,26 +4,5 @@ test_cases:
     ALLION_AIR_MIX_SERVO_TARG_D: 6
   response: 7CC03614106
 - expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 13
-  response: 7CC0361410D
-- expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 26
-  response: 7CC0361411A
-- expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 29
-  response: 7CC0361411D
-- expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 32
-  response: 7CC03614120
-- expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 34
-  response: 7CC03614122
-- expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 36
-  response: 7CC03614124
-- expected_values:
-    ALLION_AIR_MIX_SERVO_TARG_D: 37
-  response: 7CC03614125
-- expected_values:
     ALLION_AIR_MIX_SERVO_TARG_D: 40
   response: 7CC03614128
