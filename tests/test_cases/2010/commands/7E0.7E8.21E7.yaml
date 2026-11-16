@@ -9,6 +9,11 @@ test_cases:
     ALLION_EGR_STEP: 0
   response: |-
     7E8100C61E700010000
+    7E8210000000D1B9F00
+- expected_values:
+    ALLION_EGR_STEP: 0
+  response: |-
+    7E8100C61E700010000
     7E8210000001F1B4700
 - expected_values:
     ALLION_EGR_STEP: 0
