@@ -4,5 +4,5 @@ test_cases:
     ALLION_VSS: 0
   response: 7C803612100
 - expected_values:
-    ALLION_VSS: 52
-  response: 7C803612134
+    ALLION_VSS: 60
+  response: 7C80361213C
