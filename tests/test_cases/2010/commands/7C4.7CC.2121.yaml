@@ -4,23 +4,5 @@ test_cases:
     ALLION_CABIN_T: 26
   response: 7CC03612182
 - expected_values:
-    ALLION_CABIN_T: 27.75
-  response: 7CC03612189
-- expected_values:
-    ALLION_CABIN_T: 29
-  response: 7CC0361218E
-- expected_values:
-    ALLION_CABIN_T: 29.25
-  response: 7CC0361218F
-- expected_values:
-    ALLION_CABIN_T: 29.5
-  response: 7CC03612190
-- expected_values:
-    ALLION_CABIN_T: 29.75
-  response: 7CC03612191
-- expected_values:
-    ALLION_CABIN_T: 30
-  response: 7CC03612192
-- expected_values:
-    ALLION_CABIN_T: 30.5
-  response: 7CC03612194
+    ALLION_CABIN_T: 31.25
+  response: 7CC03612197

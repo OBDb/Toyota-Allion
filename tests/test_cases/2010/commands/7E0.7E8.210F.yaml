@@ -4,5 +4,5 @@ test_cases:
     ALLION_IAT_21: 30
   response: 7E803610F46
 - expected_values:
-    ALLION_IAT_21: 48
-  response: 7E803610F58
+    ALLION_IAT_21: 69
+  response: 7E803610F6D

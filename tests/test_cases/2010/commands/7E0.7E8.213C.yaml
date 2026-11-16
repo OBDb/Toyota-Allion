@@ -1,17 +1,20 @@
 command_id: 7E0.7E8.213C
 test_cases:
 - expected_values:
-    ALLION_INJ_VOL_CYL_1: 0.00015
-  response: 7E804613C128B
+    ALLION_INJ_VOL_CYL_1: 0.00011
+  response: 7E804613C0D9D
 - expected_values:
     ALLION_INJ_VOL_CYL_1: 0.00015
-  response: 7E804613C12FE
+  response: 7E804613C128B
 - expected_values:
     ALLION_INJ_VOL_CYL_1: 0.00016
   response: 7E804613C1400
 - expected_values:
-    ALLION_INJ_VOL_CYL_1: 0.00019
-  response: 7E804613C1803
+    ALLION_INJ_VOL_CYL_1: 0.00018
+  response: 7E804613C15FF
+- expected_values:
+    ALLION_INJ_VOL_CYL_1: 0.0002
+  response: 7E804613C1904
 - expected_values:
     ALLION_INJ_VOL_CYL_1: 0.00015
   response: |-

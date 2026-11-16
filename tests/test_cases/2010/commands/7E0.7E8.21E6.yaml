@@ -14,4 +14,4 @@ test_cases:
     ALLION_AC_COMP: 1
     ALLION_FUEL_CUT: 0
     ALLION_IDLE_CTRL: 1
-  response: 7E80561E6648001
+  response: 7E80561E6748001
