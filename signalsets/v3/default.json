@@ -150,7 +150,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "0F"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
-    {"id": "ALLION_IAT_21", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Intake air temperature"}
+    {"id": "ALLION_IAT_21", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "10"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
@@ -356,7 +356,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "85"}, "freq": 0.5,
   "signals": [
-    {"id": "ALLION_GEAR",        "path": "Transmission", "fmt": {          "len": 8, "max": 20, "unit": "scalar" }, "name": "Gear"},
+    {"id": "ALLION_GEAR",        "path": "Transmission", "fmt": {          "len": 8, "max": 20, "unit": "scalar" }, "name": "Gear",         "suggestedMetric": "gear"},
     {"id": "ALLION_GEAR_LOCKUP", "path": "Transmission", "fmt": {"bix": 8, "len": 1, "max": 1,  "unit": "offon"  }, "name": "Gear lock-up", "description": "Mechanism within the automatic transmission that momentarily locks the gears during gear changes, providing a smoother and more efficient transition between different gears, especially when accelerating or decelerating; essentially helps minimize power loss and jerkiness during gear shifts."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "B2"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
@@ -380,7 +380,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "D3"}, "freq": 0.25,
   "signals": [
-    {"id": "ALLION_CRUISE_CTRL_SPD", "path": "Movement", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control speed"},
+    {"id": "ALLION_CRUISE_CTRL_SPD", "path": "Movement", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control speed", "suggestedMetric": "cruiseSetSpeed"},
     {"id": "ALLION_CRUISE_CTRL_ON",  "path": "Engine",   "fmt": {"bix": 25, "len": 1, "max": 1,   "unit": "offon"             }, "name": "Cruise control on"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "D9"}, "freq": 5, "dbgfilter": { "to": 2009, "from": 2011 },
