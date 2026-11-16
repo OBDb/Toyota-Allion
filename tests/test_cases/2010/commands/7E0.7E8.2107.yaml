@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     ALLION_LTFT1_21: -0.03451
   response: '7E803610780'
+- expected_values:
+    ALLION_LTFT1_21: 0.74647
+  response: '7E803610781'
+- expected_values:
+    ALLION_LTFT1_21: 1.52745
+  response: '7E803610782'

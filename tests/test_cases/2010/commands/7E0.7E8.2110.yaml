@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2110
 test_cases:
 - expected_values:
-    ALLION_MAF_21: 1.53
-  response: '7E80461100099'
+    ALLION_MAF_21: 1.45
+  response: '7E80461100091'
 - expected_values:
     ALLION_MAF_21: 2.54
   response: 7E804611000FE
 - expected_values:
-    ALLION_MAF_21: 5.2
-  response: '7E80461100208'
+    ALLION_MAF_21: 2.57
+  response: '7E80461100101'
 - expected_values:
     ALLION_MAF_21: 17.82
   response: 7E804611006F6

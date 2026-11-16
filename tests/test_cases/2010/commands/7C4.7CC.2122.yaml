@@ -4,5 +4,5 @@ test_cases:
     ALLION_AAT_7C4: 25.35
   response: 7CC0361228B
 - expected_values:
-    ALLION_AAT_7C4: 31.3
-  response: 7CC0361229C
+    ALLION_AAT_7C4: 34.45
+  response: 7CC036122A5

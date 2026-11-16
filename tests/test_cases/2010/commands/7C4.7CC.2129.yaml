@@ -1,6 +1,9 @@
 command_id: 7C4.7CC.2129
 test_cases:
 - expected_values:
+    ALLION_T_DRIVER: 14
+  response: 7CC0361290E
+- expected_values:
     ALLION_T_DRIVER: 16
   response: 7CC03612910
 - expected_values:

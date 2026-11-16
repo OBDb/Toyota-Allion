@@ -4,5 +4,5 @@ test_cases:
     ALLION_ADJUSTED_AMBIENT_T: 24.88
   response: 7CC03613DAE
 - expected_values:
-    ALLION_ADJUSTED_AMBIENT_T: 30.64
-  response: 7CC03613DC0
+    ALLION_ADJUSTED_AMBIENT_T: 32.88
+  response: 7CC03613DC7

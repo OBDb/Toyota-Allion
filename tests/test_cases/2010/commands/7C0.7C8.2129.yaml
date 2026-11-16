@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.2129
 test_cases:
 - expected_values:
-    ALLION_FLI_VOL: 15
-  response: 7C80361291E
+    ALLION_FLI_VOL: 13.5
+  response: 7C80361291B
 - expected_values:
     ALLION_FLI_VOL: 28
   response: 7C803612938

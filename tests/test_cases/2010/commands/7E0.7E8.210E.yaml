@@ -4,5 +4,5 @@ test_cases:
     ALLION_SPARKADV_21: -11.5
   response: 7E803610E69
 - expected_values:
-    ALLION_SPARKADV_21: 38
-  response: 7E803610ECC
+    ALLION_SPARKADV_21: 39
+  response: 7E803610ECE
