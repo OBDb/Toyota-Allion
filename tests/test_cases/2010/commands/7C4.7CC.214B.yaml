@@ -4,5 +4,5 @@ test_cases:
     ALLION_EVAP_FIN_THERMISTOR: 1.45
   response: 7CC03614B59
 - expected_values:
-    ALLION_EVAP_FIN_THERMISTOR: 31.2
-  response: 7CC03614BAE
+    ALLION_EVAP_FIN_THERMISTOR: 32.6
+  response: 7CC03614BB2
