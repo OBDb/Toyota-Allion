@@ -9,7 +9,7 @@ test_cases:
     ALLION_AC_COMP: 0
     ALLION_FUEL_CUT: 1
     ALLION_IDLE_CTRL: 1
-  response: 7E80561E644C201
+  response: 7E80561E640C201
 - expected_values:
     ALLION_AC_COMP: 1
     ALLION_FUEL_CUT: 0
