@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2111
 test_cases:
 - expected_values:
-    ALLION_THROTTLE_21: 18.03922
-  response: 7E80361112E
+    ALLION_THROTTLE_21: 17.64706
+  response: 7E80361112D
 - expected_values:
     ALLION_THROTTLE_21: 31.37255
   response: '7E803611150'
