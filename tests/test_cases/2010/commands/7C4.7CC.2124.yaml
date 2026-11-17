@@ -4,5 +4,5 @@ test_cases:
     ALLION_SOLAR_DRIVER: 0
   response: 7CC03612400
 - expected_values:
-    ALLION_SOLAR_DRIVER: 40
-  response: 7CC03612428
+    ALLION_SOLAR_DRIVER: 41
+  response: 7CC03612429

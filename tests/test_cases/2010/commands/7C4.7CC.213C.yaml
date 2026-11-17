@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     ALLION_BLOWER_MOTOR_SPEED_LEVEL: 17
   response: 7CC03613C11
+- expected_values:
+    ALLION_BLOWER_MOTOR_SPEED_LEVEL: 20
+  response: 7CC03613C14
+- expected_values:
+    ALLION_BLOWER_MOTOR_SPEED_LEVEL: 21
+  response: 7CC03613C15
