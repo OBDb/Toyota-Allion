@@ -4,5 +4,5 @@ test_cases:
     ALLION_ECT_7C0: 0
   response: 7C803612300
 - expected_values:
-    ALLION_ECT_7C0: 95
-  response: 7C8036123BE
+    ALLION_ECT_7C0: 97
+  response: 7C8036123C2
