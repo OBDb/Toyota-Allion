@@ -4,6 +4,9 @@ test_cases:
     ALLION_T_DRIVER: 14
   response: 7CC0361290E
 - expected_values:
+    ALLION_T_DRIVER: 15
+  response: 7CC0361290F
+- expected_values:
     ALLION_T_DRIVER: 16
   response: 7CC03612910
 - expected_values:
