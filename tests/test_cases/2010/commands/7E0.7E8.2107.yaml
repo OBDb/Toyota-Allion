@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2107
 test_cases:
 - expected_values:
-    ALLION_LTFT1_21: -4.72039
-  response: 7E80361077A
+    ALLION_LTFT1_21: -6.28235
+  response: '7E803610778'
 - expected_values:
     ALLION_LTFT1_21: -0.81549
   response: 7E80361077F
